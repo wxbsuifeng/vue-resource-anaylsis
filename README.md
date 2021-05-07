@@ -1,2 +1,4 @@
 # vue-resource-anaylsis
-vue3源码分析
+vue2.6.8源码学习
+参考：https://book.penblog.cn/
+
